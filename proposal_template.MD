@@ -11,7 +11,7 @@ For this in our project, we will use machine learning to credit card fraud Detec
 data sources: https://www.kaggle.com/kartik2112/fraud-detection
 
 **ML Use Case**:  
-For this in our project, we will use machine learning to credit card fraud Detection to reduce the loss of billions of dollars every year in credit card fraud.
+In our project, we will use machine learning to credit card fraud Detection to reduce the loss of billions of dollars every year in credit card fraud.
 
 **ML model selected**:  
 
